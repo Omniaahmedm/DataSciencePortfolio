@@ -1,13 +1,30 @@
-# Credit Scoring analysis
+# Predicting Unemployment Rate
 ### The Problem Statements:
-You are working as a data scientist in a global finance company. Over the years, the company has collected basic bank details and gathered a lot of credit-related information. The management wants to build an intelligent system to segregate the people into credit score brackets to reduce the manual efforts.
+- Kenya's unemployment issue persists despite economic growth.
+- Aims: Investigate underlying factors,historical trends and key drivers.
+- Key Questions:
+   1.Current unemployment rate and its evolution.
+  
+   2.Demographic groups most affected.
+  
+   3.Economic factors influence.
+  
+   4.Education's role.
+  
+   5.Regional disparities.
+  
+   6.Predictive models for future trends.
+  
+
 
 ### The Plan:
 
-|    1. Exploring Data                             |                                    |
+|    1. Data Preprocessing and cleaning                            |                                    |
 |---------------------------------------------|------------------------------------|
-|                                             |<strong>2. Duplicate & Missing Values         |
-|<strong>3. Data Visualization                |         |
-|                                             |<strong>4. Modeling|
-|<strong> 5. Observations and Summary              |    |
-
+|                                             |<strong>2. EDA         |
+|<strong>3. Feature engineering and selection              |         |
+|                                             |<strong>4. Model development|
+|<strong> 5. Model evaluation              |    |
+|                                             |<strong>6. Model integration|
+|<strong> 7. model deployment
+|    |
