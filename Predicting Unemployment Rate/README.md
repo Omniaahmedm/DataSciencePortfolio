@@ -3,7 +3,7 @@
 - Kenya's unemployment issue persists despite economic growth.
 - Aims: Investigate underlying factors,historical trends and key drivers.
 - Key Questions:
-   Current unemployment rate and its evolution,Demographic groups most affected,Economic factors influence,Education's role,Regional disparities,Predictive models for future trends.
+   Current unemployment rate and its evolution, Demographic groups most affected, Economic factors influence, Education's role, Regional disparities, Predictive models for future trends.
   
 
 
