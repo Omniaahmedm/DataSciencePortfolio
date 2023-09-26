@@ -10,8 +10,8 @@ The company wants to know:
 
 ### The Plan:
 
-|1.Exploring Data                             |                                    |
+|1. Exploring Data                             |                                    |
 |---------------------------------------------|------------------------------------|
-|                                             |<strong>2.Duplicate & Missing Values         |
-|<strong>3.Univariate Analysis                |         |
-|                                             |<strong>4.Bivariate Analysis
+                                             |<strong>2. Duplicate & Missing Values         |
+|<strong>3. Univariate Analysis                |         
+|                                             |<strong>4. Bivariate Analysis
