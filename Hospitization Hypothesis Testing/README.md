@@ -12,4 +12,4 @@ The company wants to know:
 
 |Exploring Data                             |                                    |
 |-------------------------------------------|------------------------------------|
-|                                           |Duplicate & Missing Values          |
+|                                           |<strong>Duplicate & Missing Values <\strong>         |
