@@ -10,5 +10,4 @@ Please do contact me via [Linkedin](https://linkedin.com/in/omnia-elaeis) if you
 |[Credit Scoring analysis](https://github.com/Omniaahmedm/DataSciencePortfolio./tree/main/Credit%20Scoring%20analysis)|  |Modeling|
 |[Predicting Unemployment Rate]()|  |Data Exploration|
 |[Predicting Price]()|Regression|Data Exploration|
-|[Driver Lifetime Value]()|Clustering|Data Exploration|
 |[Power BI]()| | |
