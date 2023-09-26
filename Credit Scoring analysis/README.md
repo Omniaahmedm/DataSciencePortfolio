@@ -3,7 +3,7 @@ You are working as a data scientist in a global finance company. Over the years,
 
 ### The Plan:
 
-|1. Exploring Data                             |                                    |
+|    1. Exploring Data                             |                                    |
 |---------------------------------------------|------------------------------------|
 |                                             |<strong>2. Duplicate & Missing Values         |
 |<strong>3. Data Visualization                |         |
