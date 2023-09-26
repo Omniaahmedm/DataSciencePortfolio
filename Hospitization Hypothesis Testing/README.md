@@ -10,4 +10,6 @@ The company wants to know:
 
 ### The Plan:
 
-
+|Exploring Data                             |                                    |
+|-------------------------------------------|------------------------------------|
+|             |Duplicate & Missing Values|
