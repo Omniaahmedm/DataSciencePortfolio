@@ -12,6 +12,9 @@ The company wants to know:
 
 |1. Exploring Data                             |                                    |
 |---------------------------------------------|------------------------------------|
-                                             |<strong>2. Duplicate & Missing Values         |
-|<strong>3. Univariate Analysis                |         
-|                                             |<strong>4. Bivariate Analysis
+|                                             |<strong>2. Duplicate & Missing Values         |
+|<strong>3. Univariate Analysis                |         |
+|                                             |<strong>4. Bivariate Analysis|
+|<strong> 5. Hypothesis Testings              |    |
+|                                             |<strong>6. Observations and Summary|
+|<strong>7. Recommendations                   |                                    |
