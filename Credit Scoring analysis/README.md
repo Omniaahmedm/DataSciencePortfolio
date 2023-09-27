@@ -9,5 +9,5 @@ You are working as a data scientist in a global finance company. Over the years,
 |                                             |<strong>2. Duplicate & Missing Values         |
 |<strong>3. Data Visualization                |         |
 |                                             |<strong>4.  Checking outliers|
-|<strong>5. Modeling                                             |<strong>4. Modeling|
-|             |<strong> 6. Observations and Summary     |
+|<strong>5. Modeling                           |                  |
+|                                             |<strong> 6. Observations and Summary     |
