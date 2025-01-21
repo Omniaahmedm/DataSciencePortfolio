@@ -8,5 +8,5 @@ Please do contact me via [Linkedin](https://linkedin.com/in/omnia-elaeis) if you
 |---------------------------------------------------------------------------------------------------------------------------------------|
 |[Hospitization Hypothesis Testing](https://github.com/Omniaahmedm/DataSciencePortfolio./tree/main/Hospitization%20Hypothesis%20Testing)|
 |[Credit Scoring analysis](https://github.com/Omniaahmedm/DataSciencePortfolio./tree/main/Credit%20Scoring%20analysis)|
-|[Bank Customer Churn Prediction]()|
+|[Bank Customer Churn Prediction](https://github.com/Omniaahmedm/DataSciencePortfolio/tree/main/Bank%20Customer%20Churn%20Prediction)|
 
